@@ -1,0 +1,1 @@
+console.log((0/0 + "").repeat(10)+ " batman!");
